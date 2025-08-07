@@ -1,6 +1,6 @@
 # 📘 6178101: Introduction to Computer Vision for Image Understanding
 
-**Instructor:** Nimol Thuon
+**Instructor:** Dr. Nimol Thuon
 **Institution:** University of Science and Technology of China  
 **Semester:** Fall 2024  
 
@@ -100,11 +100,3 @@ By the end of this course, students will be able to:
 | Labs & Code Submissions | 25%    |
 | Midterm Assessment      | 20%    |
 | Final Project           | 30%    |
-
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/yourusername/CV101-Intro-to-Computer-Vision.git
-cd CV101-Intro-to-Computer-Vision
