@@ -1,6 +1,6 @@
 # 📘 6178101: Introduction to Computer Vision for Image Understanding
 
-**Instructor:** Dr. Nimol Thuon
+**Instructor:** Nimol Thuon
 
 **Institution:** University of Science and Technology of China  
 **Semester:** Fall 2024  
