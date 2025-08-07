@@ -33,7 +33,7 @@ By the end of this course, students will be able to:
 
 | Week | Title | Page | Code & Resources |
 |------|-------|------|------------------|
-| 1 | Introduction to Computer Vision | [📄 Week Page](#) | [💻 Code](#) |
+| 1 | Introduction to Computer Vision | [📄 Week Page](#) | [💻 Code](#https://colab.research.google.com/drive/1t0v8nE3DxzqzNaGHW4LAG1lxXO8pireQ) |
 | 2 | Image Formation and Representation | [📄 Week Page](#) | [💻 Code](#) |
 | 3 | Image Processing Fundamentals | [📄 Week Page](#) | [💻 Code](#) |
 | 4 | Feature Extraction and Matching | [📄 Week Page](#) | [💻 Code](#) |
