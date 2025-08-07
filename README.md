@@ -32,7 +32,7 @@ By the end of this course, students will be able to:
 
 ## 🗂️ Weekly Modules
 
-| Week | Title | Page | Code & Resources |
+| Week | Title | Page | Google Colab |
 |------|-------|------|------------------|
 | 1 | Introduction to Computer Vision | [📄 Week Page](https://ruisju111.github.io/teaching/week1.html) | [💻 Code](https://colab.research.google.com/drive/1t0v8nE3DxzqzNaGHW4LAG1lxXO8pireQ?usp=sharing) |
 | 2 | Image Formation and Representation | [📄 Week Page](https://ruisju111.github.io/teaching/week2.html) | [💻 Code](https://colab.research.google.com/drive/1rEEEuDDBtPjCDq6OfRx-CTB92FBe5Xff?usp=sharing) |
