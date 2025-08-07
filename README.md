@@ -37,7 +37,7 @@ By the end of this course, students will be able to:
 | 2 | Image Formation and Representation | [📄 Week Page](https://ruisju111.github.io/teaching/week2.html) | [💻 Code](https://colab.research.google.com/drive/1rEEEuDDBtPjCDq6OfRx-CTB92FBe5Xff?usp=sharing) |
 | 3 | Image Processing Fundamentals | [📄 Week Page](https://ruisju111.github.io/teaching/week3.html) | [💻 Code](https://colab.research.google.com/drive/15gfdGkPdCGgETqhP9Z-8L-nXKM49ItL1?usp=sharing) |
 | 4 | Feature Extraction and Matching | [📄 Week Page](https://ruisju111.github.io/teaching/week4.html) | [💻 Code](https://colab.research.google.com/drive/1N7dY9oxjFPy0U5rxZUIkz1KNmC3iK0Tg?usp=sharing) |
-| 5 | Geometric Vision and Camera Models | [📄 Week Page](#) | [💻 Code](#) |
+| 5 | Geometric Vision and Camera Models | [📄 Week Page](https://ruisju111.github.io/teaching/week5.html) | [💻 Code](https://colab.research.google.com/drive/1k46WuIxtkcEQCRRdEIKE8Q9lU2hgWhuk?usp=sharing) |
 | 6 | Classical Machine Learning for Vision | [📄 Week Page](#) | [💻 Code](#) |
 | 7 | Deep Learning for Image Understanding | [📄 Week Page](#) | [💻 Code](#) |
 | 8 | Object Detection | [📄 Week Page](#) | [💻 Code](#) |
