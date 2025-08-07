@@ -12,7 +12,7 @@
 This course provides a foundation in computer vision and image understanding. Through a mix of theory and hands-on coding, students will learn the fundamental techniques used to process and analyze visual information. Tools include Python, OpenCV, and deep learning frameworks like PyTorch or TensorFlow.
 
 ### 📌 Course Details
-- **Level:** Foundation / Undergraduate / Introductory Graduate  
+- **Level:** Foundation / Undergraduate
 - **Duration:** 10–12 weeks  
 - **Delivery:** Lectures, Labs, Assignments, Capstone Project  
 - **Tools:** Python, OpenCV, PyTorch or TensorFlow  
