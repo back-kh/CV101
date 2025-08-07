@@ -40,7 +40,7 @@ By the end of this course, students will be able to:
 | 5 | Geometric Vision and Camera Models | [📄 Week Page](https://ruisju111.github.io/teaching/week5.html) | [💻 Code](https://colab.research.google.com/drive/1k46WuIxtkcEQCRRdEIKE8Q9lU2hgWhuk?usp=sharing) |
 | 6 | Classical Machine Learning for Vision | [📄 Week Page](https://ruisju111.github.io/teaching/week6.html) | [💻 Code](https://colab.research.google.com/drive/1vTyPifi6hbguCaDZUcRJ0dRobsSOSBhu?usp=sharing) |
 | 7 | Deep Learning for Image Understanding | [📄 Week Page](https://ruisju111.github.io/teaching/week7.html) | [💻 Code](https://colab.research.google.com/drive/1MfFAp8oSQvy1DG3vzvduVJCXRQTouTnu?usp=sharing) |
-| 8 | Object Detection | [📄 Week Page](https://ruisju111.github.io/teaching/week8.html) | [💻 Code](#) |
+| 8 | Object Detection | [📄 Week Page](https://ruisju111.github.io/teaching/week8.html) | [💻 Code](https://colab.research.google.com/drive/1ctfPYD7ZFYAeRa_6pOo-2UDbN6hE_B-i?usp=sharing) |
 | 9 | Image Segmentation | [📄 Week Page](https://ruisju111.github.io/teaching/week9.html) | [💻 Code](#) |
 | 10 | Applications and Ethics | [📄 Week Page](https://ruisju111.github.io/teaching/week10.html) | [💻 Code](#) |
 | 11–12 | Capstone Project | [📄 Week Page](https://ruisju111.github.io/teaching/week11-12.html) | [💻 Code](#) |
