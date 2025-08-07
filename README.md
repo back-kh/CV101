@@ -1,6 +1,7 @@
 # 📘 6178101: Introduction to Computer Vision for Image Understanding
 
 **Instructor:** Dr. Nimol Thuon
+
 **Institution:** University of Science and Technology of China  
 **Semester:** Fall 2024  
 
@@ -60,22 +61,20 @@ By the end of this course, students will be able to:
 - Color Spaces: RGB, HSV, Grayscale
 - Resolution and Coordinate Systems
 - Camera Sensors and File Formats
-- 🧪 Lab: Load and manipulate images with OpenCV
+- Lab: Load and manipulate images with OpenCV
 
 ### Week 3: Image Processing Fundamentals
 - Brightness & Thresholding
 - Filtering: Smoothing, Sharpening
 - Edge Detection: Sobel, Prewitt, Canny
 - Histogram Equalization
-- 🧪 Lab: Apply filters and detect edges
+- Lab: Apply filters and detect edges
 
 ### Week 4: Feature Extraction and Matching
 - Keypoint Detection: Harris, FAST
 - Descriptors: SIFT, SURF, ORB
 - Feature Matching Techniques
-- 🧪 Lab: Match features between images
-
-...
+-  Lab: Match features between images
 
 ### Week 10: Applications and Ethics
 - OCR and Document Understanding
