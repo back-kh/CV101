@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Module 8: Object Detection</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; color: #333; }
+        h1, h2, h3 { color: #2c3e50; }
+        pre { background-color: #f4f4f4; padding: 10px; border-left: 4px solid #ccc; overflow-x: auto; }
+        .box { background-color: #f9f9f9; padding: 20px; border-left: 4px solid #2c3e50; margin: 20px 0; }
+        ul { margin-top: 0; }
+    </style>
+</head>
+<body>
+
+<h1>Module 8: Object Detection</h1>
+
+<h2>1. Learning Objectives</h2>
+<ul>
+    <li>Understand the basics of object detection</li>
+    <li>Learn the differences between detection and classification</li>
+    <li>Explore region-based and single-shot detection methods</li>
+</ul>
+
+<h2>2. Object Detection vs. Classification</h2>
+<p><strong>Classification:</strong> Predicts a single label for the entire image.</p>
+<p><strong>Detection:</strong> Identifies and locates multiple objects with bounding boxes and labels.</p>
+
+<h2>3. Key Metrics</h2>
+<ul>
+    <li><strong>IoU (Intersection over Union):</strong> Measures overlap between predicted and ground truth boxes.</li>
+    <li><strong>mAP (mean Average Precision):</strong> Standard metric for evaluation across classes.</li>
+</ul>
+
+<h2>4. Object Detection Models</h2>
+<ul>
+    <li><strong>R-CNN:</strong> Region proposals + CNN classifier (slow but accurate)</li>
+    <li><strong>Fast R-CNN:</strong> Faster version using shared features</li>
+    <li><strong>Faster R-CNN:</strong> Uses Region Proposal Network (RPN)</li>
+    <li><strong>YOLO (You Only Look Once):</strong> Real-time detection using a single network</li>
+    <li><strong>SSD (Single Shot MultiBox Detector):</strong> Faster with multi-scale feature maps</li>
+</ul>
+
+<h2>5. Anchor Boxes and NMS</h2>
+<ul>
+    <li><strong>Anchor Boxes:</strong> Predefined bounding boxes of different aspect ratios</li>
+    <li><strong>Non-Maximum Suppression (NMS):</strong> Removes redundant overlapping boxes</li>
+</ul>
+
+<h2>6. Example: YOLOv5 Inference</h2>
+<pre><code>
+# Example using YOLOv5
+!git clone https://github.com/ultralytics/yolov5
+%cd yolov5
+!pip install -r requirements.txt
+
+# Run inference
+!python detect.py --source ../your_image.jpg --weights yolov5s.pt --conf 0.5
+</code></pre>
+
+<h2>7. Assignment</h2>
+<div class="box">
+    <p><strong>Objective:</strong> Understand and experiment with object detection.</p>
+    <ul>
+        <li>1. Run YOLOv5 on your own image and analyze the results</li>
+        <li>2. Compare YOLO with a Faster R-CNN model (optional)</li>
+        <li>3. Report bounding box results and detection confidence</li>
+        <li>4. Write a 1–2 page report about performance, speed, and accuracy</li>
+    </ul>
+    <p><strong>Due:</strong> End of Week 8</p>
+</div>
+
+</body>
+</html>
