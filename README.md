@@ -1,4 +1,4 @@
-# 📘 CV78101: Introduction to Computer Vision for Image Understanding
+# 📘 CVIU78101: Introduction to Computer Vision for Image Understanding
 
 
 ---
