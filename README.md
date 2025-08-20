@@ -1,6 +1,6 @@
 # 📘 CVIU78101: Introduction to Computer Vision for Image Understanding
-
----
+------
+------
 ## 📚 Course Overview
 
 This course provides a foundation in computer vision and image understanding. Through a mix of theory and hands-on coding, students will learn the fundamental techniques used to process and analyze visual information. Tools include Python, OpenCV, and deep learning frameworks like PyTorch or TensorFlow.
